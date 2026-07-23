@@ -88,7 +88,7 @@ What is the total revenue generated from all pizza sales?
 
 > **Result:** Total Revenue = **₹4,650**
 
-![Query 2](screenshots/query2_total_revenue.png)
+![Query 2](https://github.com/ankita-kumbhar1113/Pizza-Sales-SQL-Analysis/blob/main/query%202-%20total%20revenue%20generated.png)
 
 ---
 
@@ -106,7 +106,7 @@ Which pizza was ordered the most based on quantity sold?
 
 > **Result:** **Margherita** was ordered **5** times.
 
-![Query 7](screenshots/query7_top_pizza.png)
+![Query 7](https://github.com/ankita-kumbhar1113/Pizza-Sales-SQL-Analysis/blob/main/query%207%20-%20most%20ordered%20pizza%20by%20quantity.png)
 
 ---
 
@@ -124,7 +124,7 @@ How do pizzas rank based on the revenue they generated?
 
 > **Result:** Margherita generated the highest revenue (**₹950**) and ranked **1st**.
 
-![Query 11](screenshots/query11_rank_by_revenue.png)
+![Query 11](https://github.com/ankita-kumbhar1113/Pizza-Sales-SQL-Analysis/blob/main/query%2011-rank%20pizzas%20by%20revenue.png)
 
 ---
 
@@ -143,7 +143,7 @@ Which customer spent the highest amount on pizza orders?
 
 > **Result:** **Ankita** was the highest spending customer with **₹1,300**.
 
-![Query 13](screenshots/query13_highest_spending_customer.png)
+![Query 13](https://github.com/ankita-kumbhar1113/Pizza-Sales-SQL-Analysis/blob/main/query%2013-high%20spending%20customer.png)
 
 ---
 
